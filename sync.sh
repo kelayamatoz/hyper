@@ -1,0 +1,1 @@
+cp ~/.hyper.js ./
